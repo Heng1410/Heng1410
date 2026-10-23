@@ -57,7 +57,7 @@ I work with Flutter on the frontend side of mobile apps and Django REST Framewor
 
 - GitHub: [@Heng1410](https://github.com/Heng1410)
 - Email: [sbunheng708@gmail.com](mailto:sbunheng708@gmail.com)
-- LinkedIn: [Connect with me](ADD_YOUR_LINKEDIN_URL)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/bunheng-sam-5ba551328)
 
 ---
 
