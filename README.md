@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="assets/anime.gif"
+    width="300"
+    alt="Anime coding animation"
+  />
+</p>
+
 # Hey, I'm Heng
 
 ### Software Developer | Mobile & Backend
